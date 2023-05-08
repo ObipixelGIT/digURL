@@ -120,16 +120,17 @@ python3 digURL.py
 ▒█▄▀░█░▀▄█░▀▄█░█▀▄▒█▄▄
 
 
-Enter a URL (eg. https://www.domain.com) or press the [x] key to Exit: https://www.obipixel.com
+Enter a URL (eg. https://www.domain.com) or press the [x] key to Exit: https://www.domain.com
 Requesting website...
 Website received.
 Parsing website content...
 Website content parsed.
 Finding hyperlinks...
 
-10 hyperlinks found.
+3 hyperlinks found.
 ----------------------------
-.....
+blah, blah, blah hyperlinks will appear here :-) and will be output to the file shown as well...
+
 ```
 
 ## Disclaimer
